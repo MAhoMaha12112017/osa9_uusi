@@ -68,7 +68,7 @@ try {
   if (error instanceof Error) {
     console.error(error.message); // It's an Error instance.
   } else {
-    console.error("Error. With no messagee"); // Who knows?
+    console.error("Error. With no message?"); // Who knows?
   }
 }
 
